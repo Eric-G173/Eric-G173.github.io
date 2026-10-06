@@ -359,7 +359,6 @@ CSS
   --accent: #2f6fed;
   --gap: 24px;
 }
-{% endraw %}
 .app {
   max-width: 1100px;
   margin: 0 auto;
