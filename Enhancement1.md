@@ -1,4 +1,4 @@
-## Artifact One: 
+## Enhancement One: 
 ### Enhanced Code:
 [CS499 Artifact One_Enhanced (1).zip](https://github.com/user-attachments/files/33123694/CS499.Artifact.One_Enhanced.1.zip)
 
