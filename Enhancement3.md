@@ -51,7 +51,7 @@ def return_counts():
 if __name__ == "__main__":
     app.run(port=3001, debug=True)
 ```
-
+{% raw %}
 React
 ```
 import { useEffect, useState } from 'react';
@@ -357,7 +357,7 @@ CSS
   --accent: #2f6fed;
   --gap: 24px;
 }
-
+{% endraw %}
 .app {
   max-width: 1100px;
   margin: 0 auto;
