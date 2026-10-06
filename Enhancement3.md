@@ -54,7 +54,7 @@ if __name__ == "__main__":
 
 React
 {% raw %}
-```
+```jsx
 import { useEffect, useState } from 'react';
 import './App.css';
 
