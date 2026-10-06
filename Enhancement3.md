@@ -350,7 +350,7 @@ export default App;
 
 CSS
 ```
-[Uploadi:root {
+:root {
   --ink: #1b1f24;
   --paper: #ffffff;
   --muted: #5b6570;
@@ -608,7 +608,7 @@ CSS
   .count-bar {
     grid-column: 1;
   }
-}ng App.css…]()
+}
 ```
 ### Original Document:
 [DAD 220 Project Two.docx](https://github.com/user-attachments/files/33124512/DAD.220.Project.Two.docx)
