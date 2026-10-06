@@ -8,11 +8,18 @@
 
 
 ### Explanation:
-Description of Artifact
+**Description of Artifact**
+<br>
 The artifact I have chosen for this milestone is a hash generation algorithm from my CS 305 (Software Security) class. This was the final project for that class. This is a java file that would convert an input such as a string into a checksum value using a hash algorithm, which essentially encrypts the string with a bunch of random values. The file currently uses SHA-256 algorithm to do this, and the result of running the file is a local webpage showcasing the checksum value. This project was created around June of 2026.
-Why Artifact was Selected
+<br>
+**Why Artifact was Selected**
+<br>
 The reason I selected this artifact is because I think it represents a great algorithm that is not commonly thought of when people think about DSA. There is a good amount of work that goes into creating a checksum value, and it’s important to have one because it helps encrypt data that is being transferred. This encrypted data is safe from hackers that would try to access it as the data is in transit. The file’s main purpose is security, so I wanted to add a focus on security for the data structures, and I think this file represents it perfectly. When looking at the code, my algorithm skills are showcased the best in the main function, as well as the helper conversion function. The main function shows the pipeline of data being converted from a string to hash, then the final hex value. Inside this algorithm is a helper function that also assists in converting each hash value into a hex value, which will help build the final encrypted checksum. The main way I am enhancing this artifact is by showing how useful it can be across different languages. Since this is a java to python conversion, this file can now be used in more systems that run a python backend. Pretty much the scale of how this project can be used has been increased, and that is the main benefit of this enhancement. Other smaller enhancements include better code comments, and the removal of project specific comments that were left in.
-Meeting Course Outcomes
+<br>
+**Meeting Course Outcomes**
+<br>
 I think I did meet the course outcomes when it comes to improving this artifact. I have shown through this project that my skills are transferable between different programming languages, and that I am capable of working with multiple different algorithms and successfully understanding them. The most important piece is that I know the foundation on how these data structures work, which helped in transferring structures across different languages. As of right now I do not have any updates to the outcome-coverage plans. What I wrote down in my first assignment on the plans I did for this project were implemented in full, and I did not deviate and add additional content. 
-Reflecting on Enhancement
+<br>
+**Reflecting on Enhancement**
+<br>
 What really made me curious when working on this artifact was the limit of how much can be transferred from one language to another. I started thinking about whether entire enterprise systems or websites can be successfully converted into a different language with no loss in function. What this artifact helped me learn is a better foundational understanding on how DSA’s work and the benefits of using them. It also helped refresh my memory on security such as hash algorithms and why they are important in today’s software. My skills with python were also strengthened by this assignment, as now I know more security features that can be used with flask. The main challenge I faced was just finding how to keep the logic flow consistent. I was worried that I would have to add a lot of extra buffer code in order for certain pieces of the algorithm to work, but I was surprised at how consistent the transfer was. 
