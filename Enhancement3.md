@@ -51,8 +51,9 @@ def return_counts():
 if __name__ == "__main__":
     app.run(port=3001, debug=True)
 ```
-{% raw %}
+
 React
+{% raw %}
 ```
 import { useEffect, useState } from 'react';
 import './App.css';
