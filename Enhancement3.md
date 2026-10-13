@@ -1,5 +1,6 @@
 ## Enhancement Three: 
 ### Enhanced Code:
+[CS499-Artifact-Three.zip](https://github.com/user-attachments/files/33404332/CS499-Artifact-Three.zip)
 
 
 
@@ -15,6 +16,8 @@
 <br>
 **Why I Selected the Artifact and What Improved**
 <br>
+
+
 	The reason I selected this artifact for the database portion is because the current main functionality behind this project involves the mySQL database. The main purpose of this artifact was to prepare a business proposal given certain SQL queries and explain them to a non-technical user. I believe this showcases an important part of why databases are here, in how they can store thousands of data pieces and you can extract and talk about them instantly. The main downside to a database is that you have to know what queries to run to fetch the data. That downside is what I wanted to target with this artifact, and I did so by proposing a front-end application to go with the database that way non-technical users have control of the information they gather. I believe that the complex queries being used on the backend will showcase my skills with the database, and the frontend will show my design and software design skills. The artifact will be improved by having a SPA application attached to the database, that will allow for data to be visualized more clearly, and allow for non-technical users to access data on their own.
 <br>
 **Meeting Course Outcomes**
