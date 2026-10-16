@@ -15,10 +15,10 @@
     - Node.js
    <br>
 2. Create a mySQL database and import "mock_rma_db.sql" to it. Set it up using the same information in the .env file
-2. Run app.py to get backend running
-3. cd into my-app, and run "npm install" if this is first time running
-4. Once finished, run "npm run dev"
-5. Connect to http://localhost:5173/
+3. Run app.py to get backend running
+4. cd into my-app, and run "npm install" if this is first time running
+5. Once finished, run "npm run dev"
+6. Connect to http://localhost:5173/
 
 ### Original Document:
 [DAD 220 Project Two.docx](https://github.com/user-attachments/files/33124512/DAD.220.Project.Two.docx)
