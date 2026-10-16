@@ -4,6 +4,7 @@
 
 ### To Run Code:
 Make sure the following are installed:
+<br>
 For Python/Backend via pip:
 - Flask
 - flask-cors
@@ -13,6 +14,7 @@ For Python/Backend via pip:
 For React/Frontend: 
 - Node.js
 <br>
+
 1. Install mySQL (and preferably mySQL Workbench). Create a mySQL database and import "mock_rma_db.sql" to it. Set it up using the same information in the .env file
 2. Run app.py to get backend running
 3. cd into my-app, and run "npm install" if this is first time running
