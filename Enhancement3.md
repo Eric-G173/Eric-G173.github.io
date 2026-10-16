@@ -11,6 +11,7 @@ For Python/Backend via pip:
 - python-dotenv
 - mysql-connector-python
 <br>
+
 For React/Frontend: 
 - Node.js
 <br>
