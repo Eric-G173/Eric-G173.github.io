@@ -9,11 +9,11 @@
     - Flask
     - flask-cors
     - python-dotenv
-    - mysql-connector-python
-   <br>
+    - mysql-connector-pytho
+<br>
   For React/Frontend:
     - Node.js
-   <br>
+<br>
 2. Create a mySQL database and import "mock_rma_db.sql" to it. Set it up using the same information in the .env file
 3. Run app.py to get backend running
 4. cd into my-app, and run "npm install" if this is first time running
