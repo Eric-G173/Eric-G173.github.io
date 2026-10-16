@@ -3,8 +3,12 @@
 [CS499 Artifact One_Enhanced (1).zip](https://github.com/user-attachments/files/33123694/CS499.Artifact.One_Enhanced.1.zip)
 
 ### To Run Code:
-1. Run the App.py file
-2. Connect to http://127.0.0.1:8050/
+1. Install mongoDB and mongo compass
+2. Create a new database matching specifications in .env
+3. Import aac_shelter_outcomes.csv
+4. Run the database
+5. Run the App.py file
+6. Connect to http://127.0.0.1:8050/
 
 ### Original Code:
 [Original_Code.zip](https://github.com/user-attachments/files/33123736/Original_Code.zip)
