@@ -12,12 +12,12 @@
     - mysql-connector-python
    <br>
   For React/Frontend:
-    Node.js
+    - Node.js
    <br>
-1. Run app.py to get backend running
-2. cd into my-app, and run "npm install" if this is first time running
-3. Once finished, run "npm run dev"
-4. Connect to http://localhost:5173/
+2. Run app.py to get backend running
+3. cd into my-app, and run "npm install" if this is first time running
+4. Once finished, run "npm run dev"
+5. Connect to http://localhost:5173/
 
 ### Original Document:
 [DAD 220 Project Two.docx](https://github.com/user-attachments/files/33124512/DAD.220.Project.Two.docx)
