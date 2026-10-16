@@ -3,8 +3,8 @@
 [CS499 Artifact One_Enhanced (1).zip](https://github.com/user-attachments/files/33123694/CS499.Artifact.One_Enhanced.1.zip)
 
 ### To Run Code:
-Run the App.py file
-
+1. Run the App.py file
+2. Connect to http://127.0.0.1:8050/
 ### Original Code:
 [Original_Code.zip](https://github.com/user-attachments/files/33123736/Original_Code.zip)
 
