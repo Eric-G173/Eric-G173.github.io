@@ -12,8 +12,7 @@
     - mysql-connector-pytho
 
 <br>
-  For React/Frontend:
-    - Node.js
+  For React/Frontend: Node.js
 <br>
 2. Install mySQL (and preferably mySQL Workbench). Create a mySQL database and import "mock_rma_db.sql" to it. Set it up using the same information in the .env file
 3. Run app.py to get backend running
