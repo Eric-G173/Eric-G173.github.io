@@ -2,7 +2,7 @@
 ### Enhanced Code:
 [CS499 Artifact One_Enhanced (1).zip](https://github.com/user-attachments/files/33123694/CS499.Artifact.One_Enhanced.1.zip)
 
-#### To Run Code:
+### To Run Code:
 Run the App.py file
 
 ### Original Code:
