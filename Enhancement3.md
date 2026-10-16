@@ -14,6 +14,7 @@
   For React/Frontend:
     - Node.js
    <br>
+2. Create a mySQL database and import "mock_rma_db.sql" to it. Set it up using the same information in the .env file
 2. Run app.py to get backend running
 3. cd into my-app, and run "npm install" if this is first time running
 4. Once finished, run "npm run dev"
