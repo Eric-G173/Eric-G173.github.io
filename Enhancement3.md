@@ -10,7 +10,6 @@
     - flask-cors
     - python-dotenv
     - mysql-connector-pytho
-
 <br>
   For React/Frontend: Node.js
 <br>
