@@ -5,9 +5,6 @@
 #### To Run Code:
 Run the App.py file
 
-### Note:
-Mongo connection code has been commented out and replaced with local connection to the csv file that comes attached with the artifact. I left it commented to show that it would work with a mongo database.
-
 ### Original Code:
 [Original_Code.zip](https://github.com/user-attachments/files/33123736/Original_Code.zip)
 
