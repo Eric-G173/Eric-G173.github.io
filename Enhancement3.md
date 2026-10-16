@@ -2,7 +2,22 @@
 ### Enhanced Code:
 [CS499-Artifact-Three.zip](https://github.com/user-attachments/files/33404332/CS499-Artifact-Three.zip)
 
-
+### To Run Code:
+1. Make sure the following are installed:
+ <br>
+  For Python/Backend via pip:
+    - Flask
+    - flask-cors
+    - python-dotenv
+    - mysql-connector-python
+   <br>
+  For React/Frontend:
+    Node.js
+   <br>
+1. Run app.py to get backend running
+2. cd into my-app, and run "npm install" if this is first time running
+3. Once finished, run "npm run dev"
+4. Connect to http://localhost:5173/
 
 ### Original Document:
 [DAD 220 Project Two.docx](https://github.com/user-attachments/files/33124512/DAD.220.Project.Two.docx)
