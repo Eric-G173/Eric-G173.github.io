@@ -4,6 +4,7 @@
 
 
 ### To Run Code:
+1. Make sure to pip install dash, pandas, plotly, pymongo, python-dotenv, dash-leaflet
 1. Install mongoDB and mongo compass
 2. Create a new database matching specifications in .env
 3. Import aac_shelter_outcomes.csv
