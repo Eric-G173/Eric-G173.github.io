@@ -9,7 +9,7 @@
 2. Create a new database matching specifications in .env
 3. Import aac_shelter_outcomes.csv
 4. Run the database
-5. Run the App.py file
+5. cd "CS499 Artifact One\Code" then run python App.py
 6. Connect to http://127.0.0.1:8050/
 
 ### Original Code:
